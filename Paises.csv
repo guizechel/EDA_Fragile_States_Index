@@ -1,0 +1,180 @@
+Country;ID;Region;Subregion;IDH_2010;IDH_2020
+Afghanistan;AF;Asia;Southern Asia;0.448;0.483
+Albania;AL;Europe;Southeast Europe;0.754;0.794
+Algeria;DZ;Africa;Northern Africa;0.721;0.736
+Angola;AO;Africa;Middle Africa;0.51;0.59
+Antigua and Barbuda;AG;Americas;Caribbean;0.79;0.788
+Argentina;AR;Americas;South America;0.834;0.84
+Armenia;AM;Asia;Western Asia;0.746;0.757
+Australia;AU;Oceania;Australia and New Zealand;0.923;0.947
+Austria;AT;Europe;Central Europe;0.902;0.913
+Azerbaijan;AZ;Asia;Western Asia;0.727;0.73
+Bahamas;BS;Americas;Caribbean;0.812;0.815
+Bahrain;BH;Asia;Western Asia;0.808;0.877
+Bangladesh;BD;Asia;Southern Asia;0.553;0.655
+Barbados;BB;Americas;Caribbean;0.788;0.788
+Belarus;BY;Europe;Eastern Europe;0.79;0.807
+Belgium;BE;Europe;Western Europe;0.912;0.928
+Belize;BZ;Americas;Central America;0.707;0.69
+Benin;BJ;Africa;Western Africa;0.492;0.524
+Bhutan;BT;Asia;Southern Asia;0.581;0.668
+Bolivia;BO;Americas;South America;0.662;0.694
+Bosnia and Herzegovina;BA;Europe;Southeast Europe;0.725;0.781
+Botswana;BW;Africa;Southern Africa;0.66;0.713
+Brazil;BR;Americas;South America;0.723;0.758
+Brunei Darussalam;BN;Asia;South-Eastern Asia;0.828;0.83
+Bulgaria;BG;Europe;Southeast Europe;0.79;0.802
+Burkina Faso;BF;Africa;Western Africa;0.372;0.449
+Burundi;BI;Africa;Eastern Africa;0.405;0.426
+Cabo Verde;CV;Africa;Western Africa;0.644;0.662
+Cambodia;KH;Asia;South-Eastern Asia;0.54;0.596
+Cameroon;CM;Africa;Middle Africa;0.513;0.578
+Canada;CA;Americas;North America;0.911;0.931
+Central African Republic;CF;Africa;Middle Africa;0.372;0.407
+Chad;TD;Africa;Middle Africa;0.362;0.397
+Chile;CL;Americas;South America;0.813;0.852
+China;CN;Asia;Eastern Asia;0.691;0.764
+Colombia;CO;Americas;South America;0.726;0.756
+Comoros;KM;Africa;Eastern Africa;0.52;0.562
+Congo;CD;Africa;Middle Africa;0.429;0.479
+Costa Rica;CR;Americas;Central America;0.772;0.816
+Croatia;HR;Europe;Southeast Europe;0.821;0.855
+Cuba;CU;Americas;Caribbean;0.78;0.781
+Cyprus;CY;Europe;Southern Europe;0.857;0.894
+Czech Republic;CZ;Europe;Central Europe;0.87;0.892
+Denmark;DK;Europe;Northern Europe;0.913;0.947
+Djibouti;DJ;Africa;Eastern Africa;0.458;0.51
+Dominican Republic;DO;Americas;Caribbean;0.708;0.764
+Ecuador;EC;Americas;South America;0.736;0.731
+Egypt;EG;Africa;Northern Africa;0.675;0.734
+El Salvador;SV;Americas;Central America;0.659;0.672
+Eritrea;ER;Africa;Eastern Africa;0.463;0.494
+Estonia;EE;Europe;Northern Europe;0.861;0.892
+Eswatini;SZ;Africa;Southern Africa;0.503;0.61
+Ethiopia;ET;Africa;Eastern Africa;0.412;0.498
+Fiji;FJ;Oceania;Melanesia;0.714;0.737
+Finland;FI;Europe;Northern Europe;0.911;0.938
+France;FR;Europe;Western Europe;0.877;0.898
+Gabon;GA;Africa;Middle Africa;0.664;0.71
+Gambia;GM;Africa;Western Africa;0.46;0.501
+Georgia;GE;Asia;Western Asia;0.759;0.802
+Germany;DE;Europe;Western Europe;0.926;0.944
+Ghana;GH;Africa;Western Africa;0.574;0.632
+Greece;GR;Europe;Southern Europe;0.869;0.886
+Grenada;GD;Americas;Caribbean;0.782;0.792
+Guatemala;GT;Americas;Central America;0.605;0.635
+Guinea;GN;Africa;Western Africa;0.415;0.466
+Guinea-Bissau;GW;Africa;Western Africa;0.443;0.483
+Guyana;GY;Americas;South America;0.656;0.721
+Haiti;HT;Americas;Caribbean;0.433;0.54
+Honduras;HN;Americas;Central America;0.597;0.621
+Hungary;HU;Europe;Central Europe;0.828;0.849
+Iceland;IS;Europe;Northern Europe;0.902;0.957
+India;IN;Asia;Southern Asia;0.575;0.642
+Indonesia;ID;Asia;South-Eastern Asia;0.664;0.709
+Iran;IR;Asia;Southern Asia;0.745;0.777
+Iraq;IQ;Asia;Western Asia;0.64;0.679
+Ireland;IE;Europe;Northern Europe;0.904;0.943
+Israel;IL;Asia;Western Asia;0.894;0.917
+Italy;IT;Europe;Southern Europe;0.882;0.889
+Ivory Coast;CI;Africa;Western Africa;0.473;0.551
+Jamaica;JM;Americas;Caribbean;0.704;0.713
+Japan;JP;Asia;Eastern Asia;0.898;0.923
+Jordan;JO;Asia;Western Asia;0.725;0.723
+Kazakhstan;KZ;Asia;Central Asia;0.767;0.814
+Kenya;KE;Africa;Eastern Africa;0.545;0.578
+Kuwait;KW;Asia;Western Asia;0.813;0.822
+Kyrgyzstan;KG;Asia;Central Asia;0.664;0.689
+Laos;LA;Asia;South-Eastern Asia;0.551;0.608
+Latvia;LV;Europe;Northern Europe;0.824;0.871
+Lebanon;LB;Asia;Western Asia;0.77;0.726
+Lesotho;LS;Africa;Southern Africa;0.467;0.521
+Liberia;LR;Africa;Western Africa;0.46;0.48
+Libya;LY;Africa;Northern Africa;0.739;0.703
+Lithuania;LT;Europe;Northern Europe;0.842;0.879
+Luxembourg;LU;Europe;Western Europe;0.912;0.924
+Macedonia;MK;Europe;Southeast Europe;0.738;0.774
+Madagascar;MG;Africa;Eastern Africa;0.492;0.501
+Malawi;MW;Africa;Eastern Africa;0.456;0.516
+Malaysia;MY;Asia;South-Eastern Asia;0.769;0.806
+Maldives;MV;Asia;Southern Asia;0.688;0.734
+Mali;ML;Africa;Western Africa;0.404;0.427
+Malta;MT;Europe;Southern Europe;0.861;0.911
+Mauritania;MR;Africa;Western Africa;0.51;0.556
+Mauritius;MU;Africa;Eastern Africa;0.755;0.804
+Mexico;MX;Americas;North America;0.746;0.756
+Micronesia;FM;Oceania;Micronesia;0.625;0.629
+Moldova;MD;Europe;Eastern Europe;0.73;0.766
+Mongolia;MN;Asia;Eastern Asia;0.701;0.745
+Montenegro;ME;Europe;Southeast Europe;0.808;0.826
+Morocco;MA;Africa;Northern Africa;0.603;0.679
+Mozambique;MZ;Africa;Eastern Africa;0.402;0.453
+Myanmar;MM;Asia;South-Eastern Asia;0.51;0.6
+Namibia;NA;Africa;Southern Africa;0.585;0.633
+Nepal;NP;Asia;Southern Asia;0.543;0.604
+Netherlands;NL;Europe;Western Europe;0.917;0.939
+New Zealand;NZ;Oceania;Australia and New Zealand;0.922;0.936
+Nicaragua;NI;Americas;Central America;0.614;0.654
+Niger;NE;Africa;Western Africa;0.338;0.401
+Nigeria;NG;Africa;Western Africa;0.482;0.535
+North Korea;KP;Asia;Eastern Asia;Unknown;Unknown
+North Macedonia;MK;Europe;Southeast Europe;0.738;0.774
+Norway;NO;Europe;Northern Europe;0.941;0.959
+Oman;OM;Asia;Western Asia;0.788;0.827
+Pakistan;PK;Asia;Southern Asia;0.505;0.543
+Palestine;PS;Asia;Western Asia;Unknown;Unknown
+Panama;PA;Americas;Central America;0.773;0.801
+Papua New Guinea;PG;Oceania;Melanesia;0.499;0.56
+Paraguay;PY;Americas;South America;0.685;0.73
+Peru;PE;Americas;South America;0.725;0.762
+Philippines;PH;Asia;South-Eastern Asia;0.674;0.71
+Poland;PL;Europe;Central Europe;0.841;0.876
+Portugal;PT;Europe;Southern Europe;0.829;0.863
+Qatar;QA;Asia;Western Asia;0.834;0.854
+Romania;RO;Europe;Southeast Europe;0.807;0.824
+Russia;RU;Europe;Eastern Europe;0.796;0.83
+Rwanda;RW;Africa;Eastern Africa;0.489;0.532
+Samoa;WS;Oceania;Polynesia;0.713;0.712
+Sao Tome and Principe;ST;Africa;Middle Africa;0.554;0.619
+Saudi Arabia;SA;Asia;Western Asia;0.816;0.87
+Senegal;SN;Africa;Western Africa;0.468;0.513
+Serbia;RS;Europe;Southeast Europe;0.767;0.804
+Seychelles;SC;Africa;Eastern Africa;0.776;0.793
+Sierra Leone;SL;Africa;Western Africa;0.427;0.475
+Singapore;SG;Asia;South-Eastern Asia;0.91;0.939
+Slovakia;SK;Europe;Central Europe;0.84;0.857
+Slovenia;SI;Europe;Central Europe;0.89;0.913
+Solomon Islands;SB;Oceania;Melanesia;0.55;0.565
+Somalia;SO;Africa;Eastern Africa;Unknown;Unknown
+South Africa;ZA;Africa;Southern Africa;0.675;0.727
+South Korea;KR;Asia;Eastern Asia;0.89;0.922
+South Sudan;SS;Africa;Middle Africa;0.43;0.386
+Spain;ES;Europe;Southern Europe;0.868;0.899
+Sri Lanka;LK;Asia;Southern Asia;0.737;0.78
+Sudan;SD;Africa;Northern Africa;0.486;0.51
+Suriname;SR;Americas;South America;0.723;0.743
+Swaziland;SZ;Africa;Southern Africa;0.503;0.61
+Sweden;SE;Europe;Northern Europe;0.91;0.942
+Switzerland;CH;Europe;Western Europe;0.942;0.956
+Syria;SY;Asia;Western Asia;0.66;0.577
+Tajikistan;TJ;Asia;Central Asia;0.636;0.664
+Tanzania;TZ;Africa;Eastern Africa;0.493;0.548
+Thailand;TH;Asia;South-Eastern Asia;0.737;0.802
+Timor-Leste;TL;Asia;South-Eastern Asia;0.619;0.614
+Togo;TG;Africa;Western Africa;0.477;0.535
+Trinidad and Tobago;TT;Americas;Caribbean;0.79;0.818
+Tunisia;TN;Africa;Northern Africa;0.72;0.737
+Turkey;TR;Asia;Western Asia;0.749;0.833
+Turkmenistan;TM;Asia;Central Asia;0.711;0.741
+Uganda;UG;Africa;Eastern Africa;0.502;0.524
+Ukraine;UA;Europe;Eastern Europe;0.764;0.775
+United Arab Emirates;AE;Asia;Western Asia;0.835;0.912
+United Kingdom;GB;Europe;Northern Europe;0.912;0.924
+United States;US;Americas;North America;0.911;0.92
+Uruguay;UY;Americas;South America;0.787;0.821
+Uzbekistan;UZ;Asia;Central Asia;0.673;0.721
+Venezuela;VE;Americas;South America;0.755;0.695
+Vietnam;VN;Asia;South-Eastern Asia;0.663;0.71
+Yemen;YE;Asia;Western Asia;0.51;0.46
+Zambia;ZM;Africa;Eastern Africa;0.529;0.57
+Zimbabwe;ZW;Africa;Southern Africa;0.512;0.6
